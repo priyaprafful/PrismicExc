@@ -1,0 +1,59 @@
+
+.App {
+  text-align: center;
+}
+
+.titlePage{
+  margin-top: 20px;
+}
+
+.pageHeading{
+  font-size: 37px;
+}
+.pagepara{
+  width: 300px;
+  margin-left: 700px;
+  margin-top: 2px;
+}
+
+
+.SliceOneimg{
+  width: 80%;
+}
+.SliceTwoContent{
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+.SliceTwoDescription{
+  width:50%;
+}
+.SliceTwoHeading{
+  width:80%
+}
+.SliceTwoPara{
+  width: 50%;
+  margin-left: 70px;
+  margin-top: 20px;
+}
+.SliceTwoimg{
+  margin-left: 10px; 
+}
+.SliceThreeContent{
+  margin-top: 100px;
+  height: 500px;
+
+}
+
+
+.SliceThreeImage{
+  margin-top: 50px;
+  width: 100%;
+  display: "flex";
+  justify-content: space-evenly;
+}
+.SliceThreeAllimg{
+  border: 1;
+  margin-left: 20px;
+  
+}
