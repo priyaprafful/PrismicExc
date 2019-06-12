@@ -3,57 +3,50 @@
   text-align: center;
 }
 
-.titlePage{
-  margin-top: 20px;
+.mainPage{
+  text-align: center;
 }
-
-.pageHeading{
-  font-size: 37px;
-}
-.pagepara{
-  width: 300px;
-  margin-left: 700px;
-  margin-top: 2px;
-}
-
-
-.SliceOneimg{
-  width: 80%;
-}
-.SliceTwoContent{
-  display: flex;
-  justify-content: center;
-  margin-top: 60px;
-}
-.SliceTwoDescription{
-  width:50%;
-}
-.SliceTwoHeading{
-  width:80%
-}
-.SliceTwoPara{
-  width: 50%;
-  margin-left: 70px;
-  margin-top: 20px;
-}
-.SliceTwoimg{
-  margin-left: 10px; 
-}
-.SliceThreeContent{
-  margin-top: 100px;
-  height: 500px;
-
-}
-
-
-.SliceThreeImage{
-  margin-top: 50px;
-  width: 100%;
-  display: "flex";
-  justify-content: space-evenly;
-}
-.SliceThreeAllimg{
-  border: 1;
-  margin-left: 20px;
+.mainPageHeading{
+  font-size: 35px;
+  padding-bottom: 3px;
   
+}
+.mainPagePara{
+  width:300px;
+  margin-left: 42%;
+}
+.sliceOneImage{
+  width: 70%;
+  height: 500px;
+}
+.sliceTwo-content{
+  display:flex;
+  align-items:center;
+ width: 70%;
+  margin-left:15%;
+  margin-top:5%;
+}
+.sliceTwo-title{
+  width:50%;
+  text-align: justify;
+  margin-left: 20%;
+}
+.sliceTwo-para{
+  width:50%;
+  text-align: justify;
+  margin-left: 20%;
+}
+
+
+.sliceThree-content{
+  margin-top:5%;
+}
+                
+
+.sliceThree-Image{
+ margin-right: 80px;
+ margin-top:10px;
+}
+.sliceTwo-gallery{
+  margin-right: 80px;
 }
